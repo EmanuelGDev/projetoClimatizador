@@ -9,4 +9,3 @@ Você pode gerar a sua api key na seguinte url: https://openweathermap.org
 
 Ao fazer isso, você terá o projeto de forma usual.
 
-Será disponibilizado tambem o projeto na aba "pages" do repositório.
